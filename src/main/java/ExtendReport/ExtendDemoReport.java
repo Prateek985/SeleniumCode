@@ -12,6 +12,9 @@ public class ExtendDemoReport {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/client");
+		System.out.println("My name is prateek");
+		System.out.println("My name is prateek");
+		System.out.println("My name is prateek");
 	}
 	  
 	
